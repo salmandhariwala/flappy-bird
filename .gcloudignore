@@ -1,0 +1,10 @@
+.gcloudignore
+.git
+.gitignore
+
+Ignored by the build system
+/setup.cfg
+
+.idea/
+/node_modules
+/src
